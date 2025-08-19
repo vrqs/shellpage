@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: monospace;
+}
+
+
+.container {
+  width: 100%;
+  max-width: 1080px;
+  margin-inline: auto;
+}
+
+.site-header {
+  padding: 40px 0;
+}
